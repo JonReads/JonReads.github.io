@@ -15,5 +15,12 @@
     <ns0:image href="https://JonathanGrant.github.io/podcasts/logo.jpeg"/>
     <ns0:category text="Technology"/>
     <ns0:explicit>no</ns0:explicit>
+    <item>
+      <title>[Matthew Yglesias] Unleash_the_power_of_bipartisan_NRC_reform</title>
+      <description>[Matthew Yglesias] Unleash_the_power_of_bipartisan_NRC_reform</description>
+      <pubDate>Wed, 31 Jan 2024 07:24:27 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesia2632b7bd-bada-4d2a-b82d-342e2b71e82c.mp3" type="audio/mp3" length="496748"/>
+      <guid>3479889f-e6ff-48a3-88a1-5b886443e9d9</guid>
+    </item>
   </channel>
 </rss>
