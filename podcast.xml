@@ -36,5 +36,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[&quot;michael_a._cohf0a970e5-0cef-4409-bd60-01eeb25c9f9a.mp3" type="audio/mp3" length="186380"/>
       <guid>d4d448cf-c555-493d-aba1-2c34a17447ef</guid>
     </item>
+    <item>
+      <title>[Tech Brew] Sneaky_smart</title>
+      <description>[Tech Brew] Sneaky_smart</description>
+      <pubDate>Wed, 31 Jan 2024 12:38:18 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[tech_brew]_snead4110af3-a881-4073-b447-7905cbafc953.mp3" type="audio/mp3" length="1825965"/>
+      <guid>8fa02c9c-fad2-49f4-a565-238958ef3027</guid>
+    </item>
   </channel>
 </rss>
