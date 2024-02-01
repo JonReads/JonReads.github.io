@@ -71,5 +71,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[noahpinion]_bid9a5e8d45-f63d-4481-9cc2-c965049d80f0.mp3" type="audio/mp3" length="3193485"/>
       <guid>8f0de1f8-596c-41c0-b6c7-feafc259b73a</guid>
     </item>
+    <item>
+      <title>[Matthew Yglesias] How_lie_detectors_exacerbate_border_problems</title>
+      <description>[Matthew Yglesias] How_lie_detectors_exacerbate_border_problems</description>
+      <pubDate>Thu, 01 Feb 2024 11:17:58 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesiab0be600e-ccb8-40d1-8f03-b788c8b6f348.mp3" type="audio/mp3" length="1060653"/>
+      <guid>f2f413ac-328b-4ede-b3ec-df0545c6669e</guid>
+    </item>
   </channel>
 </rss>
