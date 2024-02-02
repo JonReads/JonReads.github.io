@@ -85,5 +85,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[tech_brew]___fe14a356cb-9c10-4cd6-a36b-6178c1196445.mp3" type="audio/mp3" length="1932621"/>
       <guid>7fbb399b-cc2b-4cc2-86ee-2b3acf570016</guid>
     </item>
+    <item>
+      <title>[LessWrong] _LessWrong__A_Shutdown_Problem_Proposal</title>
+      <description>[LessWrong] _LessWrong__A_Shutdown_Problem_Proposal</description>
+      <pubDate>Fri, 02 Feb 2024 21:17:51 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[lesswrong]__les535918cb-856c-4583-9daa-3f25a7ed32eb.mp3" type="audio/mp3" length="3008493"/>
+      <guid>31080c98-2870-4fe3-adb8-cde02d870328</guid>
+    </item>
   </channel>
 </rss>
