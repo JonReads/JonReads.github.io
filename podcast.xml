@@ -78,5 +78,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesiab0be600e-ccb8-40d1-8f03-b788c8b6f348.mp3" type="audio/mp3" length="1060653"/>
       <guid>f2f413ac-328b-4ede-b3ec-df0545c6669e</guid>
     </item>
+    <item>
+      <title>[Tech Brew] __Feasibly_fossil_fuel_free</title>
+      <description>[Tech Brew] __Feasibly_fossil_fuel_free</description>
+      <pubDate>Fri, 02 Feb 2024 12:36:15 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[tech_brew]___fe14a356cb-9c10-4cd6-a36b-6178c1196445.mp3" type="audio/mp3" length="1932621"/>
+      <guid>7fbb399b-cc2b-4cc2-86ee-2b3acf570016</guid>
+    </item>
   </channel>
 </rss>
