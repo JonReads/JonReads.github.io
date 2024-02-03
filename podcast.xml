@@ -127,5 +127,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[cremieux_from_cc998be48-7797-4a1b-9ec5-7dfa493664be.mp3" type="audio/mp3" length="4201197"/>
       <guid>6276dd09-2f45-4a21-9368-dc8ea79e12ba</guid>
     </item>
+    <item>
+      <title>[Duncan_Sabien_from_Homo_Sabiens] Counting_Up_vs__Counting_Down</title>
+      <description>[Duncan_Sabien_from_Homo_Sabiens] Counting_Up_vs__Counting_Down</description>
+      <pubDate>Sat, 03 Feb 2024 22:23:26 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[duncan_sabien_fe042eb42-7891-4e38-8e05-927cb1586b5a.mp3" type="audio/mp3" length="2135277"/>
+      <guid>0b418548-fb5d-4d42-bba7-82015a8cc143</guid>
+    </item>
   </channel>
 </rss>
