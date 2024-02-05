@@ -169,5 +169,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[noahpinion]_tar8caa799c-428e-4b5d-a2e0-0c784aad3a86.mp3" type="audio/mp3" length="1800525"/>
       <guid>366bcd93-1cf8-4d97-9169-cef7375037cf</guid>
     </item>
+    <item>
+      <title>[Matthew_Yglesias] Trump_s_foreign_policy_was_a_humanitarian_disaster</title>
+      <description>[Matthew_Yglesias] Trump_s_foreign_policy_was_a_humanitarian_disaster</description>
+      <pubDate>Mon, 05 Feb 2024 11:17:32 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesiaeba9e9e8-12eb-425f-b3c7-b52ff77cf6df.mp3" type="audio/mp3" length="3483981"/>
+      <guid>f08115d2-d17e-423e-9e46-14d7bbdb9f7f</guid>
+    </item>
   </channel>
 </rss>
