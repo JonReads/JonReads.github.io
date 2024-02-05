@@ -204,5 +204,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[_byrne___the_dic864ada6-c772-4203-9a1a-a8367dd5962f.mp3" type="audio/mp3" length="5025357"/>
       <guid>e1267355-9c48-408b-bb39-c2b51bc23ef0</guid>
     </item>
+    <item>
+      <title>[The_Algorithm_from_MIT_Technology_Review] What_babies_can_teach_AI</title>
+      <description>[The_Algorithm_from_MIT_Technology_Review] What_babies_can_teach_AI</description>
+      <pubDate>Mon, 05 Feb 2024 17:22:22 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[the_algorithm_fa2ea3159-cdca-4017-a3ae-6d1865a18811.mp3" type="audio/mp3" length="1666317"/>
+      <guid>2c97fbd6-8dda-4185-862e-a395d4112d45</guid>
+    </item>
   </channel>
 </rss>
