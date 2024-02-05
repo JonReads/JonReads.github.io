@@ -162,5 +162,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[astral_codex_teef203481-0f97-4ddf-932e-b4e050137d46.mp3" type="audio/mp3" length="542733"/>
       <guid>42fd0fc6-3ae8-46b1-b412-d6a52d57caf9</guid>
     </item>
+    <item>
+      <title>[Noahpinion] Tariffs_are_coming</title>
+      <description>[Noahpinion] Tariffs_are_coming</description>
+      <pubDate>Mon, 05 Feb 2024 09:20:51 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[noahpinion]_tar8caa799c-428e-4b5d-a2e0-0c784aad3a86.mp3" type="audio/mp3" length="1800525"/>
+      <guid>366bcd93-1cf8-4d97-9169-cef7375037cf</guid>
+    </item>
   </channel>
 </rss>
