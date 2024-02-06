@@ -232,5 +232,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[nate_silver_fro17189f5f-c842-4faa-95f0-e7027431a229.mp3" type="audio/mp3" length="3203085"/>
       <guid>043b12e5-0cd7-4b0a-b315-84f9e01e7d4b</guid>
     </item>
+    <item>
+      <title>[LessWrong] _LessWrong__Theories_of_Applied_Rationality</title>
+      <description>[LessWrong] _LessWrong__Theories_of_Applied_Rationality</description>
+      <pubDate>Tue, 06 Feb 2024 21:18:54 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[lesswrong]__lesb1f9c9fb-8aa7-4758-8f88-da6b30d9c963.mp3" type="audio/mp3" length="1952397"/>
+      <guid>436da5d1-2c4f-4a64-adf5-d83fd58ab96b</guid>
+    </item>
   </channel>
 </rss>
