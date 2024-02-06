@@ -211,5 +211,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[the_algorithm_fa2ea3159-cdca-4017-a3ae-6d1865a18811.mp3" type="audio/mp3" length="1666317"/>
       <guid>2c97fbd6-8dda-4185-862e-a395d4112d45</guid>
     </item>
+    <item>
+      <title>[Matthew_Yglesias] Trump_s_middle_class_tax_hike</title>
+      <description>[Matthew_Yglesias] Trump_s_middle_class_tax_hike</description>
+      <pubDate>Tue, 06 Feb 2024 11:17:44 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesia08f0869c-2837-4265-a59e-1378d986393d.mp3" type="audio/mp3" length="3243309"/>
+      <guid>7e4afd7b-aead-4470-84a8-6eed63566f15</guid>
+    </item>
   </channel>
 </rss>
