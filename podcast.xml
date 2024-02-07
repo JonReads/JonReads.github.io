@@ -274,5 +274,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[the_download_fr5752b5f4-727d-43e1-9c30-2d0e6669c040.mp3" type="audio/mp3" length="1746381"/>
       <guid>8ca17bc9-f3a4-46c7-a497-e4ac70e9bdfc</guid>
     </item>
+    <item>
+      <title>[Jeremy_Singer_Vine] Data_Is_Plural___2024_02_07_edition</title>
+      <description>[Jeremy_Singer_Vine] Data_Is_Plural___2024_02_07_edition</description>
+      <pubDate>Wed, 07 Feb 2024 16:27:06 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[jeremy_singer_v3c859dd4-32f8-4905-9d38-00227f574eba.mp3" type="audio/mp3" length="1120653"/>
+      <guid>d683188f-d0d1-4f0f-9901-22cd6ea5ad60</guid>
+    </item>
   </channel>
 </rss>
