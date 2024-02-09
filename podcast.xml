@@ -344,5 +344,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[nate_silver_fro8f81c9b2-0c72-4fe2-8515-cfdc3946bfe8.mp3" type="audio/mp3" length="799244"/>
       <guid>fabedbcc-7af6-43d7-9a7b-f047bf57cdac</guid>
     </item>
+    <item>
+      <title>[Matthew Yglesias] Super_Mailbag</title>
+      <description>[Matthew Yglesias] Super_Mailbag</description>
+      <pubDate>Fri, 09 Feb 2024 16:25:39 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesia1655391f-23f1-4302-b751-329fd175e04f.mp3" type="audio/mp3" length="844173"/>
+      <guid>d32a417d-75a0-4be9-8d7f-adda06cf4c0e</guid>
+    </item>
   </channel>
 </rss>
