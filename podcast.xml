@@ -330,5 +330,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[tech_brew]___itf9f39b49-a776-421a-81c8-2f11b2969e83.mp3" type="audio/mp3" length="2828397"/>
       <guid>b730ab01-70f0-42aa-9f94-ca387c07627e</guid>
     </item>
+    <item>
+      <title>[The_Download_from_MIT_Technology_Review] Why_engineers_are_working_to_build_better_pulse_oximeters</title>
+      <description>[The_Download_from_MIT_Technology_Review] Why_engineers_are_working_to_build_better_pulse_oximeters</description>
+      <pubDate>Fri, 09 Feb 2024 13:22:25 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[the_download_fr8ca6078f-cc54-457b-974d-5b887094eab3.mp3" type="audio/mp3" length="1554573"/>
+      <guid>2b779c7b-d67e-43c5-9147-bae84829fddc</guid>
+    </item>
   </channel>
 </rss>
