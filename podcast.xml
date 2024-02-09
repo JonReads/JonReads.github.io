@@ -351,5 +351,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesia1655391f-23f1-4302-b751-329fd175e04f.mp3" type="audio/mp3" length="844173"/>
       <guid>d32a417d-75a0-4be9-8d7f-adda06cf4c0e</guid>
     </item>
+    <item>
+      <title>[Tech Brew] __It_s_me__Hi___I_swear_</title>
+      <description>[Tech Brew] __It_s_me__Hi___I_swear_</description>
+      <pubDate>Fri, 09 Feb 2024 16:26:49 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[tech_brew]___it1347283f-33a8-4fcc-b377-f3a354a3711e.mp3" type="audio/mp3" length="1167693"/>
+      <guid>185285e0-860a-4fe4-81c2-ec022b5f54fb</guid>
+    </item>
   </channel>
 </rss>
