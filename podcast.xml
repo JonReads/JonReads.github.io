@@ -379,5 +379,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[astral_codex_te84ea93a0-da3c-47df-a005-011c6887c030.mp3" type="audio/mp3" length="6097293"/>
       <guid>eafc2701-33f4-4d92-95cb-eb4223d361a8</guid>
     </item>
+    <item>
+      <title>[LessWrong] _LessWrong__Believing_In</title>
+      <description>[LessWrong] _LessWrong__Believing_In</description>
+      <pubDate>Sat, 10 Feb 2024 20:19:57 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[lesswrong]__les934ed23a-b1b5-4c16-9874-89b56115aa98.mp3" type="audio/mp3" length="5607213"/>
+      <guid>ac45288e-f585-46b9-9dc6-faac68d8f394</guid>
+    </item>
   </channel>
 </rss>
