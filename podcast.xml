@@ -386,5 +386,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[lesswrong]__les934ed23a-b1b5-4c16-9874-89b56115aa98.mp3" type="audio/mp3" length="5607213"/>
       <guid>ac45288e-f585-46b9-9dc6-faac68d8f394</guid>
     </item>
+    <item>
+      <title>[Astral_Codex_Ten] Open_Thread_315</title>
+      <description>[Astral_Codex_Ten] Open_Thread_315</description>
+      <pubDate>Mon, 12 Feb 2024 09:22:34 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[astral_codex_te326c7833-6a8d-4bd9-b1d1-5de8edbd3dff.mp3" type="audio/mp3" length="285069"/>
+      <guid>2d5d47dd-c6a5-42a9-8644-28e14ec9e7cb</guid>
+    </item>
   </channel>
 </rss>
