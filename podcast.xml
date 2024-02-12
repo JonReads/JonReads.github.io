@@ -407,5 +407,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[noahpinion]_20230f47fd6-c75a-4844-8187-de0b4d88536d.mp3" type="audio/mp3" length="1214061"/>
       <guid>a494f5c2-eb4e-4f53-bac5-0a490067fa8f</guid>
     </item>
+    <item>
+      <title>[Tech_Brew] __Offset_this</title>
+      <description>[Tech_Brew] __Offset_this</description>
+      <pubDate>Mon, 12 Feb 2024 12:35:39 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[tech_brew]___of009a77f7-f9ca-42f8-ae35-9d71989bc7d4.mp3" type="audio/mp3" length="1647597"/>
+      <guid>fdcd7258-2eb6-4dd0-9d50-dc860638056b</guid>
+    </item>
   </channel>
 </rss>
