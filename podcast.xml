@@ -435,5 +435,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[nate_silver_fro911ef7a2-5530-4f77-847f-3b25e3c48714.mp3" type="audio/mp3" length="1362477"/>
       <guid>cbc3e676-04be-4247-bb3d-cb1a6ae16635</guid>
     </item>
+    <item>
+      <title>[The_Algorithm_from_MIT_Technology_Review] Finally__some_good_news_on_AI</title>
+      <description>[The_Algorithm_from_MIT_Technology_Review] Finally__some_good_news_on_AI</description>
+      <pubDate>Mon, 12 Feb 2024 17:21:42 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[the_algorithm_f4dc16273-48f3-48f0-bc9e-10cd5dd85deb.mp3" type="audio/mp3" length="1940109"/>
+      <guid>fed4028a-7100-481f-9190-a538e83ef2fb</guid>
+    </item>
   </channel>
 </rss>
