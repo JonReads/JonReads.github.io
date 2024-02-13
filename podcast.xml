@@ -442,5 +442,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[the_algorithm_f4dc16273-48f3-48f0-bc9e-10cd5dd85deb.mp3" type="audio/mp3" length="1940109"/>
       <guid>fed4028a-7100-481f-9190-a538e83ef2fb</guid>
     </item>
+    <item>
+      <title>[Astral_Codex_Ten] Sam_Altman_Wants__7_Trillion</title>
+      <description>[Astral_Codex_Ten] Sam_Altman_Wants__7_Trillion</description>
+      <pubDate>Tue, 13 Feb 2024 06:27:17 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[astral_codex_tec457bc9d-cd09-465e-83f6-3facbf7a1600.mp3" type="audio/mp3" length="3089229"/>
+      <guid>c84e9bbb-1242-40d7-8e8d-0ab425c9cd87</guid>
+    </item>
   </channel>
 </rss>
