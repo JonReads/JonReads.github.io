@@ -470,5 +470,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[the_download_fr5e294b82-3f1f-4295-ac30-296468d76c3f.mp3" type="audio/mp3" length="1769901"/>
       <guid>35435483-94f3-45d1-92cc-4def655446c7</guid>
     </item>
+    <item>
+      <title>[Astral_Codex_Ten] Love_And_Liberty</title>
+      <description>[Astral_Codex_Ten] Love_And_Liberty</description>
+      <pubDate>Wed, 14 Feb 2024 08:24:44 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[astral_codex_te8a7fa4b1-85e0-42a4-8e99-194fdcc2deb9.mp3" type="audio/mp3" length="1825773"/>
+      <guid>b1c08e51-93b7-4c32-8354-e3f758f6ef3d</guid>
+    </item>
   </channel>
 </rss>
