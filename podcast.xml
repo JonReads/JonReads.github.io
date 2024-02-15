@@ -512,5 +512,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[noahpinion]_rus6c69a133-1d89-4a6b-b121-7ca2a413961f.mp3" type="audio/mp3" length="1234317"/>
       <guid>dc5f853a-21e7-42ea-80b7-d0273abff90d</guid>
     </item>
+    <item>
+      <title>[LessWrong] _LessWrong__And_All_the_Shoggoths_Merely_Players</title>
+      <description>[LessWrong] _LessWrong__And_All_the_Shoggoths_Merely_Players</description>
+      <pubDate>Thu, 15 Feb 2024 05:23:58 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[lesswrong]__lesd32a7f08-115a-4320-b28f-068d92b908e5.mp3" type="audio/mp3" length="5738157"/>
+      <guid>1b3c99dc-8d94-46b0-985c-c37d7807b979</guid>
+    </item>
   </channel>
 </rss>
