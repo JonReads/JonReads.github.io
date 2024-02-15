@@ -505,5 +505,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[jeremy_singer_vca5ddbe6-a949-44ea-96cd-c40984acf08c.mp3" type="audio/mp3" length="1254477"/>
       <guid>1c21934d-99ec-4f8c-93ed-eea8d3a2e5d1</guid>
     </item>
+    <item>
+      <title>[Noahpinion] Russia_is_not_actually_a_very_nice_place_to_live</title>
+      <description>[Noahpinion] Russia_is_not_actually_a_very_nice_place_to_live</description>
+      <pubDate>Thu, 15 Feb 2024 01:19:55 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[noahpinion]_rus6c69a133-1d89-4a6b-b121-7ca2a413961f.mp3" type="audio/mp3" length="1234317"/>
+      <guid>dc5f853a-21e7-42ea-80b7-d0273abff90d</guid>
+    </item>
   </channel>
 </rss>
