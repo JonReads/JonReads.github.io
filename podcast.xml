@@ -547,5 +547,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[tech_brew]___stf4b7233a-fd2c-4f60-a5b1-746f1aed12a1.mp3" type="audio/mp3" length="1869261"/>
       <guid>ce3aeb72-c429-47a5-bf50-ac50b37d1555</guid>
     </item>
+    <item>
+      <title>[The_Download_from_MIT_Technology_Review] OpenAI_just_teased_an_amazing_new_generative_video_model</title>
+      <description>[The_Download_from_MIT_Technology_Review] OpenAI_just_teased_an_amazing_new_generative_video_model</description>
+      <pubDate>Fri, 16 Feb 2024 13:21:37 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[the_download_fr001abc7b-0426-4425-a6f2-f981f4deca74.mp3" type="audio/mp3" length="1756845"/>
+      <guid>c51bf80f-752f-416e-b4b7-a7eda1990d99</guid>
+    </item>
   </channel>
 </rss>
