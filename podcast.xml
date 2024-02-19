@@ -617,5 +617,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[nate_silver_fro64cab871-3193-46cd-b0e6-07747953cf5c.mp3" type="audio/mp3" length="3985101"/>
       <guid>0b02de59-a9ab-41b3-8252-91495de2ce10</guid>
     </item>
+    <item>
+      <title>[The_Algorithm_from_MIT_Technology_Review] A_walk_with_Gary_Marcus</title>
+      <description>[The_Algorithm_from_MIT_Technology_Review] A_walk_with_Gary_Marcus</description>
+      <pubDate>Mon, 19 Feb 2024 17:22:00 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[the_algorithm_f3ef6ebcc-7c05-4b9d-9c7c-09bf0fe7a873.mp3" type="audio/mp3" length="1982349"/>
+      <guid>133f1c0b-7d08-4944-afd1-6075338adbe8</guid>
+    </item>
   </channel>
 </rss>
