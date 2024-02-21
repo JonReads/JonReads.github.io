@@ -680,5 +680,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesia5ced48ee-2b47-43a0-a21b-817f877af933.mp3" type="audio/mp3" length="3190797"/>
       <guid>f7a67ddb-4125-43b7-8958-ac61284ec003</guid>
     </item>
+    <item>
+      <title>[Tech_Brew] __Squawking</title>
+      <description>[Tech_Brew] __Squawking</description>
+      <pubDate>Wed, 21 Feb 2024 12:35:44 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[tech_brew]___sq82e6d8f9-27e5-49b2-9f8f-53594756677f.mp3" type="audio/mp3" length="1848141"/>
+      <guid>40505c3e-f4d5-4e5c-8e7d-b339e2b64900</guid>
+    </item>
   </channel>
 </rss>
