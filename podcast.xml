@@ -666,5 +666,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[substack]_new_n0f2f89f9-1eba-44ef-b89e-ecbb8c125018.mp3" type="audio/mp3" length="269421"/>
       <guid>f42b5c04-0b26-4688-a7e1-aa270674cb75</guid>
     </item>
+    <item>
+      <title>[Noahpinion] Book_review___Power_and_Progress_</title>
+      <description>[Noahpinion] Book_review___Power_and_Progress_</description>
+      <pubDate>Wed, 21 Feb 2024 11:18:30 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[noahpinion]_boo74e2ce22-6059-44d1-ae8d-6541d4809d2a.mp3" type="audio/mp3" length="3220845"/>
+      <guid>ef855689-879b-41c6-8d7f-298ebfca96e7</guid>
+    </item>
   </channel>
 </rss>
