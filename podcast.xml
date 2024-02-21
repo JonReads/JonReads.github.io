@@ -701,5 +701,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[the_download_fr763bf35b-43a5-4e62-b2ad-cbc91b0f2aab.mp3" type="audio/mp3" length="1973997"/>
       <guid>da374851-a148-45f3-905c-5e367483f0e9</guid>
     </item>
+    <item>
+      <title>[Substack] Noahpinion_recommended_Statecraft</title>
+      <description>[Substack] Noahpinion_recommended_Statecraft</description>
+      <pubDate>Wed, 21 Feb 2024 23:20:41 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[substack]_noahp7bacc066-3280-4be6-8270-88e7bc2c45c4.mp3" type="audio/mp3" length="85581"/>
+      <guid>6ce0f039-5826-4209-8706-f23428fb03ac</guid>
+    </item>
   </channel>
 </rss>
