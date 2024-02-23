@@ -757,5 +757,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[the_download_fr23a84aa0-1b56-48ea-ae27-cfa3a3d8ccd3.mp3" type="audio/mp3" length="1719021"/>
       <guid>00ecd1dc-94f3-4e5f-b33f-67e6966f2fc5</guid>
     </item>
+    <item>
+      <title>[LessWrong] _LessWrong__CFAR_Takeaways__Andrew_Critch</title>
+      <description>[LessWrong] _LessWrong__CFAR_Takeaways__Andrew_Critch</description>
+      <pubDate>Fri, 23 Feb 2024 20:22:49 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[lesswrong]__lesc20ebc92-af3a-4e02-a254-17c84e08b95c.mp3" type="audio/mp3" length="2299533"/>
+      <guid>e41d346c-c48b-4de9-a7b0-706b59a6b685</guid>
+    </item>
   </channel>
 </rss>
