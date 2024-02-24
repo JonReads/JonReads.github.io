@@ -764,5 +764,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[lesswrong]__lesc20ebc92-af3a-4e02-a254-17c84e08b95c.mp3" type="audio/mp3" length="2299533"/>
       <guid>e41d346c-c48b-4de9-a7b0-706b59a6b685</guid>
     </item>
+    <item>
+      <title>[Noahpinion] This_is_not_a_good_way_to_fight_racism_in_America</title>
+      <description>[Noahpinion] This_is_not_a_good_way_to_fight_racism_in_America</description>
+      <pubDate>Sat, 24 Feb 2024 10:25:38 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[noahpinion]_thi6323b928-fdf2-46ac-8475-75200e3d0bfb.mp3" type="audio/mp3" length="4266957"/>
+      <guid>35416229-bb5c-4aea-ab17-979595af5242</guid>
+    </item>
   </channel>
 </rss>
