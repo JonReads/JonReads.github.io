@@ -834,5 +834,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[_byrne___the_di95494253-162f-4513-ab0a-5c85a724f723.mp3" type="audio/mp3" length="4702797"/>
       <guid>eecdbe9b-1fe2-462b-9c94-2c1636582c59</guid>
     </item>
+    <item>
+      <title>[The_Algorithm_from_MIT_Technology_Review] Bans_on_deepfakes_take_us_only_so_far_here_s_what_we_really_need</title>
+      <description>[The_Algorithm_from_MIT_Technology_Review] Bans_on_deepfakes_take_us_only_so_far_here_s_what_we_really_need</description>
+      <pubDate>Mon, 26 Feb 2024 18:25:04 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[the_algorithm_f28008784-136b-42f9-b5a0-83c0005babd1.mp3" type="audio/mp3" length="1715853"/>
+      <guid>2aff0c19-b17d-462f-a98b-d96a5b6f8846</guid>
+    </item>
   </channel>
 </rss>
