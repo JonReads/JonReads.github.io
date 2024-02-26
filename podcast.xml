@@ -813,5 +813,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[astral_codex_te968feef7-6a06-4004-8884-b8adb8ee0a23.mp3" type="audio/mp3" length="377517"/>
       <guid>cc35725b-5c0d-4ee7-b29b-c2b5a9574a50</guid>
     </item>
+    <item>
+      <title>[Tech_Brew] __As_advertised</title>
+      <description>[Tech_Brew] __As_advertised</description>
+      <pubDate>Mon, 26 Feb 2024 12:36:02 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[tech_brew]___asd906035b-e8ef-4822-9c75-19a10d04dd64.mp3" type="audio/mp3" length="2099181"/>
+      <guid>37895196-3102-4f71-8b1a-49251421ee34</guid>
+    </item>
   </channel>
 </rss>
