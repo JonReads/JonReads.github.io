@@ -918,5 +918,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[jeremy_singer_v81607c59-e01e-4c69-9090-f70917625060.mp3" type="audio/mp3" length="1075917"/>
       <guid>b87f5657-6baf-438b-9dad-868bb9115da9</guid>
     </item>
+    <item>
+      <title>[LessWrong] _LessWrong__Speaking_to_Congressional_staffers_about_AI_risk</title>
+      <description>[LessWrong] _LessWrong__Speaking_to_Congressional_staffers_about_AI_risk</description>
+      <pubDate>Wed, 28 Feb 2024 20:22:24 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[lesswrong]__lesbebe1951-5ecf-42c9-84ff-eddf12399653.mp3" type="audio/mp3" length="6762669"/>
+      <guid>4874f863-92ae-4db2-88d1-0fa409abf48e</guid>
+    </item>
   </channel>
 </rss>
