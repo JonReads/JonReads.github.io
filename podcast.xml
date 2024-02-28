@@ -897,5 +897,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesia7b407a5c-7bdf-4328-a676-b851b3f916fd.mp3" type="audio/mp3" length="845229"/>
       <guid>944b1e36-87a3-45bc-ac16-8d69397a7db9</guid>
     </item>
+    <item>
+      <title>[Tech_Brew] __Generation_Gemma</title>
+      <description>[Tech_Brew] __Generation_Gemma</description>
+      <pubDate>Wed, 28 Feb 2024 13:21:22 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[tech_brew]___gea063b857-8e40-42cd-92ad-604a3221545c.mp3" type="audio/mp3" length="1865037"/>
+      <guid>f138d52c-9791-4c5b-8bae-08d5959c6a48</guid>
+    </item>
   </channel>
 </rss>
