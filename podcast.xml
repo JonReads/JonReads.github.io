@@ -869,5 +869,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[nate_silver_froab3b6a91-cf98-4a58-81ff-be84c33c1d9e.mp3" type="audio/mp3" length="6672909"/>
       <guid>858c28e0-c802-4080-ad6c-42aa26787d72</guid>
     </item>
+    <item>
+      <title>[Astral_Codex_Ten] Less_Utilitarian_Than_Thou</title>
+      <description>[Astral_Codex_Ten] Less_Utilitarian_Than_Thou</description>
+      <pubDate>Wed, 28 Feb 2024 05:23:51 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[astral_codex_te0f2ceecf-b6c4-492a-b05a-1afc2b31900f.mp3" type="audio/mp3" length="1457133"/>
+      <guid>e09fb33f-9ac2-4eff-adc2-f67f7db613d2</guid>
+    </item>
   </channel>
 </rss>
