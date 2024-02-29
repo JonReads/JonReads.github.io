@@ -932,5 +932,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesiabcd27a8c-dc5f-44fe-a513-03399e4ca8fb.mp3" type="audio/mp3" length="3089037"/>
       <guid>fcc9d218-0492-4c83-b1ac-3e41a27b5580</guid>
     </item>
+    <item>
+      <title>[The_Download_from_MIT_Technology_Review] How_scientists_are_using_quantum_squeezing_to_push_the_limits_of_their_sensors</title>
+      <description>[The_Download_from_MIT_Technology_Review] How_scientists_are_using_quantum_squeezing_to_push_the_limits_of_their_sensors</description>
+      <pubDate>Thu, 29 Feb 2024 13:21:26 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[the_download_fre7ad3c34-e4f4-4879-a6b9-719e0a260d7f.mp3" type="audio/mp3" length="2066157"/>
+      <guid>85fa7323-33ff-49a1-bd11-b232edd8ce31</guid>
+    </item>
   </channel>
 </rss>
