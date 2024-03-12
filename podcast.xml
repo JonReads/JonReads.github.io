@@ -1177,5 +1177,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[lesswrong]__les290071c9-1de7-4445-8214-1334a5aeb9fd.mp3" type="audio/mp3" length="105165"/>
       <guid>1dcf1c93-136f-444e-a429-3b8233d79c8c</guid>
     </item>
+    <item>
+      <title>[Astral_Codex_Ten] Mantic_Monday_3_11_24</title>
+      <description>[Astral_Codex_Ten] Mantic_Monday_3_11_24</description>
+      <pubDate>Tue, 12 Mar 2024 03:26:37 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[astral_codex_te8e075552-f1bd-4af1-95b7-f2feabd437a5.mp3" type="audio/mp3" length="4391853"/>
+      <guid>951b88ad-dbac-4841-bd07-5a6a8e50e21f</guid>
+    </item>
   </channel>
 </rss>
