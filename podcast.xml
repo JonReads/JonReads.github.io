@@ -1170,5 +1170,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesia32bb9dc0-b36d-4b7b-b372-d09e4036a59c.mp3" type="audio/mp3" length="1832301"/>
       <guid>723b3ef8-b08e-43e3-9b66-571ecceb6e1b</guid>
     </item>
+    <item>
+      <title>[LessWrong] _LessWrong__Acting_Wholesomely</title>
+      <description>[LessWrong] _LessWrong__Acting_Wholesomely</description>
+      <pubDate>Tue, 12 Mar 2024 03:26:02 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[lesswrong]__les290071c9-1de7-4445-8214-1334a5aeb9fd.mp3" type="audio/mp3" length="105165"/>
+      <guid>1dcf1c93-136f-444e-a429-3b8233d79c8c</guid>
+    </item>
   </channel>
 </rss>
