@@ -764,5 +764,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[jack_clark_fromfc36599c-df62-448e-b0f5-eb4314715187.mp3" type="audio/mp3" length="93453"/>
       <guid>6c587ec0-8e7d-46e5-9fa7-17f61f77e0ca</guid>
     </item>
+    <item>
+      <title>[LessWrong] _LessWrong_Development_Server__Acting_Wholesomely</title>
+      <description>[LessWrong] _LessWrong_Development_Server__Acting_Wholesomely</description>
+      <pubDate>Mon, 18 Mar 2024 21:19:59 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[lesswrong]__lesb4f8b9bc-bc79-4471-9f93-e7398a863461.mp3" type="audio/mp3" length="125805"/>
+      <guid>a92f0a8b-6709-4b4c-a6e1-a0c7a16de624</guid>
+    </item>
   </channel>
 </rss>
