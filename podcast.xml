@@ -778,5 +778,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[noahpinion]_are289a43b4-3392-4762-9501-9af1b2db156d.mp3" type="audio/mp3" length="1349709"/>
       <guid>3038d1cc-8814-467a-bddb-bc51f47c623c</guid>
     </item>
+    <item>
+      <title>[Matthew_Yglesias] It_s_the_right_time_for_austerity</title>
+      <description>[Matthew_Yglesias] It_s_the_right_time_for_austerity</description>
+      <pubDate>Tue, 19 Mar 2024 10:27:32 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesiaa5724db4-dfcb-4d50-8110-e8f83580ed49.mp3" type="audio/mp3" length="3086445"/>
+      <guid>ea1f093d-b1c7-458e-b89d-a122eded1c8d</guid>
+    </item>
   </channel>
 </rss>
