@@ -778,5 +778,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[astral_codex_tee905fd95-0e85-4197-97b6-2dc6aee28ea7.mp3" type="audio/mp3" length="2450349"/>
       <guid>a5800a08-4e15-4581-9495-348ee53f74ae</guid>
     </item>
+    <item>
+      <title>[Matthew_Yglesias] What_Israel_does_matters</title>
+      <description>[Matthew_Yglesias] What_Israel_does_matters</description>
+      <pubDate>Wed, 20 Mar 2024 11:18:40 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesiabdd22425-4247-4804-b746-5da52138fe55.mp3" type="audio/mp3" length="3699021"/>
+      <guid>8fb0f671-08f9-44a3-9d50-8483210f012f</guid>
+    </item>
   </channel>
 </rss>
