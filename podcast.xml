@@ -743,5 +743,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[matthew_yglesiaab9703e7-90b4-4c7e-9d39-60f913f27510.mp3" type="audio/mp3" length="2487405"/>
       <guid>2bd1363f-7021-4a4f-9dea-6c9b0cda8c58</guid>
     </item>
+    <item>
+      <title>[Noahpinion] Go_read_some_Vernor_Vinge</title>
+      <description>[Noahpinion] Go_read_some_Vernor_Vinge</description>
+      <pubDate>Thu, 21 Mar 2024 22:23:30 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[noahpinion]_go_5c450edd-b76d-48fd-9b58-e8b017d81b0f.mp3" type="audio/mp3" length="2912109"/>
+      <guid>d84964fa-f3ed-4982-9eba-453da873dd89</guid>
+    </item>
   </channel>
 </rss>
