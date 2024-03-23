@@ -722,5 +722,12 @@
       <enclosure url="https://JonReads.github.io/podcasts/audio/[lesswrong]__les11d12ea1-fb94-433e-b6f3-b94da009028a.mp3" type="audio/mp3" length="3770349"/>
       <guid>dc981263-d54b-4e35-810d-dce771478628</guid>
     </item>
+    <item>
+      <title>[Noahpinion] The_decade_of_the_Second_China_Shock</title>
+      <description>[Noahpinion] The_decade_of_the_Second_China_Shock</description>
+      <pubDate>Sat, 23 Mar 2024 04:25:15 GMT</pubDate>
+      <enclosure url="https://JonReads.github.io/podcasts/audio/[noahpinion]_thefbd6e919-93b3-4fed-b2cb-a821b03fce7b.mp3" type="audio/mp3" length="935181"/>
+      <guid>a6b340be-545e-422b-b9df-57a491cdd855</guid>
+    </item>
   </channel>
 </rss>
